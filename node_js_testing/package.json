@@ -1,0 +1,14 @@
+{
+  "name": "node_js_testing",
+  "version": "1.0.0",
+  "description": "When you realise that Mocha is not coffee and Chai is not tea anymore ",
+  "main": "className.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranay Ankit Tiru",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
