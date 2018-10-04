@@ -6,7 +6,7 @@ This repository contains samples of writing unit tests using Mocha and Chai. The
 
 * In browser
 
-In this mode, you'll need to first `clone this repo` and then click on `test.html`. 
+1. In this mode, you'll need to first `clone this repo` and then click on `test.html`. 
 
 * In Node.js
 
